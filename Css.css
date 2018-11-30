@@ -1,0 +1,30 @@
+
+.container {
+    width: 90%;
+    margin: 0 auto;
+}
+
+.header {
+    background-color: aquamarine;
+    height: 50px;
+}
+
+.leftcolumn {
+    width: 20%;
+    float: left;
+    background-color: darkgoldenrod;
+    height: 70px;
+}
+
+.rightcolumn {
+    width: 80%;
+    float: left;
+    background-color: darkgoldenrod;
+    height: 70px
+}
+
+.footer {
+    background-color: pink;
+    float: left;
+    width; 100%;
+}
